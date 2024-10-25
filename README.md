@@ -13,7 +13,7 @@
 | 4   | Remote Work Trends                                 | [Click Me](https://github.com/onsra520/Remote-Work-Trends)                 |
 |     | Google Play Application Analysis                   | [Click Me](https://github.com/onsra520/Google-Play-Application-Analysis)   |
 |     | AI Research Paper Analysis                         ||
-| 5   | Stress Monitoring Sensor Data Analysis             | [Click Me](https://github.com/onsra520Stress-Monitoring-Sensor-Data-Analysis) |
+| 5   | Stress Monitoring Sensor Data Analysis             | [Click Me](https://github.com/onsra520/Stress-Monitoring-Sensor-Data-Analysis) |
 |     | Sleep and Mood Sensor Data Analysis                ||
 |     | Physical Activity and Mental Health Data Analysis  | [Click Me](https://github.com/onsra520/Physical-Activity-and-Mental-Health-Data-Analysis) |
 | 6   | AI Research Trends on Medical Image Recognition Using Cameras ||
