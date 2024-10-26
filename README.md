@@ -16,6 +16,6 @@
 | 5   | Stress Monitoring Sensor Data Analysis             | [Click Me](https://github.com/onsra520/Stress-Monitoring-Sensor-Data-Analysis)           |
 |     | Sleep and Mood Sensor Data Analysis                | [Click Me](https://github.com/onsra520/Sleep-and-Mood-Sensor-Data-Analysis)              |
 |     | Physical Activity and Mental Health Data Analysis  | [Click Me](https://github.com/onsra520/Physical-Activity-and-Mental-Health-Data-Analysis)|
-| 6   | AI Research Trends on Medical Image Recognition Using Cameras ||
+| 6   | AI Research Trends on Medical Image Recognition Using Cameras | [Click Me](https://github.com/onsra520/AI-Research-Trends-on-Medical-Image-Recognition-Using-Cameras)|
 |     |AI Research on Wearable Health Monitoring and Image Data||
 |     | AI Research Evaluation on Disease Detection Using Cameras and Imaging ||
